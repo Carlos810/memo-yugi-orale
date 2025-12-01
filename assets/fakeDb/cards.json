@@ -1,0 +1,50 @@
+[
+    {
+       "id-card": 1,
+       "name":"BabyDragon",
+       "card-path": "assets/img/cards_game/BabyDragon.jpg",
+       "revelado": false
+    },
+    {
+       "id-card": 2,
+       "name":"Espadachin",
+       "card-path": "assets/img/cards_game/Espadachin.webp",
+       "revelado": false
+    },
+    {
+       "id-card": 3,
+       "name":"Exodia",
+       "card-path": "assets/img/cards_game/Exodia.jpg",
+       "revelado": false
+    },
+    {
+       "id-card": 4,
+       "name":"Kuriboh",
+       "card-path": "assets/img/cards_game/Kuriboh.jpg",
+       "revelado": false
+    },
+    {
+       "id-card": 5,
+       "name":"MagoOscuro",
+       "card-path": "assets/img/cards_game/MagoOscuro.jpg",
+       "revelado": false
+    },
+    {
+       "id-card": 6,
+       "name":"MagoTiempo",
+       "card-path": "assets/img/cards_game/MagoTiempo.jpg",
+       "revelado": false
+    },
+    {
+       "id-card": 7,
+       "name":"Obelisk",
+       "card-path": "assets/img/cards_game/Obelisk.jpg",
+       "revelado": false
+    },
+    {
+       "id-card": 8,
+       "name":"OjosAzules",
+       "card-path": "assets/img/cards_game/OjosAzules.jpg",
+       "revelado": false
+    }
+ ]
