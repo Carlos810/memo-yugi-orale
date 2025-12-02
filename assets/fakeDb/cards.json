@@ -2,49 +2,49 @@
     {
        "id-card": 1,
        "name":"BabyDragon",
-       "card-path": "assets/img/cards_game/BabyDragon.jpg",
-       "revelado": false
-    },
-    {
-       "id-card": 2,
-       "name":"Espadachin",
-       "card-path": "assets/img/cards_game/Espadachin.webp",
-       "revelado": false
-    },
-    {
-       "id-card": 3,
-       "name":"Exodia",
-       "card-path": "assets/img/cards_game/Exodia.jpg",
-       "revelado": false
-    },
-    {
-       "id-card": 4,
-       "name":"Kuriboh",
-       "card-path": "assets/img/cards_game/Kuriboh.jpg",
-       "revelado": false
-    },
-    {
-       "id-card": 5,
-       "name":"MagoOscuro",
-       "card-path": "assets/img/cards_game/MagoOscuro.jpg",
-       "revelado": false
-    },
-    {
-       "id-card": 6,
-       "name":"MagoTiempo",
-       "card-path": "assets/img/cards_game/MagoTiempo.jpg",
-       "revelado": false
-    },
-    {
-       "id-card": 7,
-       "name":"Obelisk",
-       "card-path": "assets/img/cards_game/Obelisk.jpg",
+       "card-path": "https://www.dropbox.com/scl/fi/hz1x7iwlwm0qcvh39hmdu/BabyDragon.jpg?rlkey=cn3515e96ybr30jdkbjw7lphz&st=mtqdc8kg&raw=1", 
        "revelado": false
     },
     {
        "id-card": 8,
        "name":"OjosAzules",
-       "card-path": "assets/img/cards_game/OjosAzules.jpg",
+       "card-path": "https://www.dropbox.com/scl/fi/lnbu2epeqno0t3q1dreti/OjosAzules.jpg?rlkey=x507xj71tcpjfu3f0giexf57i&st=qhh81970&raw=1",
+       "revelado": false
+    },
+    {
+       "id-card": 2,
+       "name":"Espadachin",
+       "card-path": "https://www.dropbox.com/scl/fi/3q0zcwcu6i6a1h2l86v7b/Espadachin.webp?rlkey=49d3j3xy85cg1ym9kjasqqbeh&st=92y4xzob&raw=1",
+       "revelado": false
+    },
+    {
+       "id-card": 3,
+       "name":"Exodia",
+       "card-path": "https://www.dropbox.com/scl/fi/vqdr7x21gy7anv58igr7x/Exodia.jpg?rlkey=nd4546kho6i9vu2bs0wfrnht7&st=ud99rp40&raw=1",
+       "revelado": false
+    },
+    {
+       "id-card": 4,
+       "name":"Kuriboh",
+       "card-path": "https://www.dropbox.com/scl/fi/zl8zo5fvaeqw6du7jqs34/Kuriboh.jpg?rlkey=3bod7f47ydkqotbgmeqfz1b49&st=5hc8ga17&raw=1",
+       "revelado": false
+    },
+    {
+       "id-card": 5,
+       "name":"MagoOscuro",
+       "card-path": "https://www.dropbox.com/scl/fi/vt931lsps3ij9nago078w/MagoOscuro.jpg?rlkey=u2faa6mzyk0kwyzbvq2g7e1c8&st=257g6lwf&raw=1",
+       "revelado": false
+    },
+    {
+       "id-card": 6,
+       "name":"MagoTiempo",
+       "card-path": "https://www.dropbox.com/scl/fi/4qpiv7azp7r3l644tgxxh/MagoTiempo.jpg?rlkey=mevfcld1qpi5k4lbgcbx3wooo&st=6m9fkrzw&raw=1",
+       "revelado": false
+    },
+    {
+       "id-card": 7,
+       "name":"Obelisk",
+       "card-path": "https://www.dropbox.com/scl/fi/2e6u2e4bk98nzuh3mqyvb/Obelisk.jpg?rlkey=t5kuu3x3ab229f1sde0qze0r2&st=x0j2s6hf&raw=1",
        "revelado": false
     }
  ]
