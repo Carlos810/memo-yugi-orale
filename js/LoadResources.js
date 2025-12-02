@@ -24,12 +24,13 @@ async function renderCardsToView(){
         const div = document.createElement("div");
         div.classList.add("item");
         div.setAttribute("data-id",carta["id-card"]);
-        div.setAttribute('style', 'background-image: url("assets/img/Card_Back.jpg"); background-size: cover; background-position: center; background-repeat: no-repeat;');
+        div.setAttribute('style', 'background-image: url("./assets/img/Card_Back.jpg"); background-size: cover; background-position: center; background-repeat: no-repeat;');
         
         const img = document.createElement("img");
         img.src = carta["card-path"];
         img.alt = carta.name;
-        
+        img.style.visibility = "hidden";
+
         div.appendChild(img);
         ContenedorTablero.appendChild(div);
     });
